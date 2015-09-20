@@ -1,0 +1,1242 @@
+"C:/Users/sabot/Documents/Unreal Projects/RolimaRace/RolimaRace.uproject" 1
+"../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin" 2
+"../../../Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin" 3
+"../../../Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin" 4
+"../../../Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin" 5
+"../../../Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin" 6
+"../../../Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin" 7
+"../../../Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin" 8
+"../../../Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin" 9
+"../../../Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin" 10
+"../../../Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin" 11
+"../../../Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin" 12
+"../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin" 13
+"../../../Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin" 14
+"../../../Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin" 15
+"../../../Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin" 16
+"../../../Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin" 17
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin" 18
+"../../../Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin" 19
+"../../../Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin" 20
+"../../../Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin" 21
+"../../../Engine/Plugins/Experimental/CodeView/CodeView.uplugin" 22
+"../../../Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin" 23
+"../../../Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin" 24
+"../../../Engine/Plugins/Experimental/Phya/Phya.uplugin" 25
+"../../../Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin" 26
+"../../../Engine/Plugins/Experimental/StructBox/StructBox.uplugin" 27
+"../../../Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin" 28
+"../../../Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin" 29
+"../../../Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin" 30
+"../../../Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin" 31
+"../../../Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin" 32
+"../../../Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin" 33
+"../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin" 34
+"../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin" 35
+"../../../Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin" 36
+"../../../Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin" 37
+"../../../Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin" 38
+"../../../Engine/Plugins/Runtime/Analytics/Apsalar/IOSApsalar/IOSApsalar.uplugin" 39
+"../../../Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin" 40
+"../../../Engine/Plugins/Runtime/Analytics/Flurry/IOSFlurry/IOSFlurry.uplugin" 41
+"../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin" 42
+"../../../Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin" 43
+"../../../Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin" 44
+"../../../Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin" 45
+"../../../Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin" 46
+"../../../Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin" 47
+"../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin" 48
+"../../../Engine/Plugins/Runtime/GearVR/GearVR.uplugin" 49
+"../../../Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin" 50
+"../../../Engine/Plugins/Runtime/LeapMotionController/LeapMotionController.uplugin" 51
+"../../../Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin" 52
+"../../../Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin" 53
+"../../../Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin" 54
+"../../../Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin" 55
+"../../../Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin" 56
+"../../../Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin" 57
+"../../../Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin" 58
+"../../../Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin" 59
+"../../../Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin" 60
+"../../../Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin" 61
+"../../../Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin" 62
+"../../../Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin" 63
+"../../../Engine/Plugins/ScriptGeneratorPlugin/ScriptGeneratorPlugin.uplugin" 64
+"../../../Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin" 65
+"../../../Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin" 66
+"..\..\..\Engine\Content\Internationalization\icudt53l\cnvalias.icu" 67
+"..\..\..\Engine\Content\Internationalization\icudt53l\en_US_POSIX.res" 68
+"..\..\..\Engine\Content\Internationalization\icudt53l\pool.res" 69
+"..\..\..\Engine\Content\Internationalization\icudt53l\en_US.res" 70
+"..\..\..\Engine\Content\Internationalization\icudt53l\en.res" 71
+"..\..\..\Engine\Content\Internationalization\icudt53l\root.res" 72
+"..\..\..\Engine\Content\Internationalization\icudt53l\pt_BR.res" 73
+"..\..\..\Engine\Content\Internationalization\icudt53l\pt.res" 74
+"C:/Users/sabot/AppData/Local/UnrealEngine/4.9/Saved/Config/Windows/Manifest.ini" 75
+"../../../Engine/Config/Base.ini" 76
+"../../../Engine/Config/BaseEngine.ini" 77
+"C:/Users/sabot/Documents/Unreal Projects/RolimaRace/Config/DefaultEngine.ini" 78
+"../../../Engine/Config/Windows/WindowsEngine.ini" 79
+"C:/Users/sabot/AppData/Local/Unreal Engine/Engine/Config/UserEngine.ini" 80
+"C:/Users/sabot/Documents/Unreal Projects/RolimaRace/Saved/Config/Windows/Engine.ini" 81
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Intermediate/Config/CoalescedSourceConfigs/Engine.ini" 82
+"../../../Engine/Config/BaseGame.ini" 83
+"C:/Users/sabot/Documents/Unreal Projects/RolimaRace/Config/DefaultGame.ini" 84
+"C:/Users/sabot/Documents/Unreal Projects/RolimaRace/Saved/Config/Windows/Game.ini" 85
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Intermediate/Config/CoalescedSourceConfigs/Game.ini" 86
+"../../../Engine/Config/BaseInput.ini" 87
+"C:/Users/sabot/Documents/Unreal Projects/RolimaRace/Config/DefaultInput.ini" 88
+"C:/Users/sabot/Documents/Unreal Projects/RolimaRace/Saved/Config/Windows/Input.ini" 89
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Intermediate/Config/CoalescedSourceConfigs/Input.ini" 90
+"../../../Engine/Config/BaseEditor.ini" 91
+"C:/Users/sabot/Documents/Unreal Projects/RolimaRace/Config/DefaultEditor.ini" 92
+"C:/Users/sabot/Documents/Unreal Projects/RolimaRace/Saved/Config/Windows/Editor.ini" 93
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Intermediate/Config/CoalescedSourceConfigs/Editor.ini" 94
+"../../../Engine/Config/BaseEditorPerProjectUserSettings.ini" 95
+"C:/Users/sabot/Documents/Unreal Projects/RolimaRace/Saved/Config/Windows/EditorPerProjectUserSettings.ini" 96
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Intermediate/Config/CoalescedSourceConfigs/EditorPerProjectUserSettings.ini" 97
+"../../../Engine/Config/BaseEditorSettings.ini" 98
+"C:/Users/sabot/AppData/Local/UnrealEngine/4.9/Saved/Config/Windows/EditorSettings.ini" 99
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Intermediate/Config/CoalescedSourceConfigs/EditorSettings.ini" 100
+"../../../Engine/Config/BaseEditorLayout.ini" 101
+"C:/Users/sabot/AppData/Local/UnrealEngine/4.9/Saved/Config/Windows/EditorLayout.ini" 102
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Intermediate/Config/CoalescedSourceConfigs/EditorLayout.ini" 103
+"../../../Engine/Config/BaseEditorKeyBindings.ini" 104
+"C:/Users/sabot/AppData/Local/UnrealEngine/4.9/Saved/Config/Windows/EditorKeyBindings.ini" 105
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Intermediate/Config/CoalescedSourceConfigs/EditorKeyBindings.ini" 106
+"../../../Engine/Config/BaseCompat.ini" 107
+"C:/Users/sabot/Documents/Unreal Projects/RolimaRace/Saved/Config/Windows/Compat.ini" 108
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Intermediate/Config/CoalescedSourceConfigs/Compat.ini" 109
+"../../../Engine/Config/BaseLightmass.ini" 110
+"C:/Users/sabot/Documents/Unreal Projects/RolimaRace/Saved/Config/Windows/Lightmass.ini" 111
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Intermediate/Config/CoalescedSourceConfigs/Lightmass.ini" 112
+"../../../Engine/Config/BaseScalability.ini" 113
+"C:/Users/sabot/Documents/Unreal Projects/RolimaRace/Saved/Config/Windows/Scalability.ini" 114
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Intermediate/Config/CoalescedSourceConfigs/Scalability.ini" 115
+"C:/Users/sabot/Documents/Unreal Projects/RolimaRace/Saved/Config/Windows/GameUserSettings.ini" 116
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini" 117
+"../../../Engine/Config/BaseDeviceProfiles.ini" 118
+"C:/Users/sabot/Documents/Unreal Projects/RolimaRace/Saved/Config/Windows/DeviceProfiles.ini" 119
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Intermediate/Config/CoalescedSourceConfigs/DeviceProfiles.ini" 120
+"../../../Engine/Config/ConsoleVariables.ini" 121
+"..\..\..\Engine\Content\Internationalization\icudt53l\es.res" 122
+"..\..\..\Engine\Content\Internationalization\icudt53l\ja.res" 123
+"..\..\..\Engine\Content\Internationalization\icudt53l\ko.res" 124
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh_CN.res" 125
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh_Hans_CN.res" 126
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh_Hans.res" 127
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh.res" 128
+"C:/Program Files/Epic Games/4.9/Engine/Content/Localization/Engine/en/Engine.locres" 129
+"C:/Program Files/Epic Games/4.9/Engine/Content/Localization/Editor/en/Editor.locres" 130
+"C:/Program Files/Epic Games/4.9/Engine/Content/Localization/EditorTutorials/en/EditorTutorials.locres" 131
+"C:/Program Files/Epic Games/4.9/Engine/Content/Localization/Keywords/en/Keywords.locres" 132
+"C:/Program Files/Epic Games/4.9/Engine/Content/Localization/Category/en/Category.locres" 133
+"C:/Program Files/Epic Games/4.9/Engine/Content/Localization/ToolTips/en/ToolTips.locres" 134
+"C:/Program Files/Epic Games/4.9/Engine/Content/Localization/PropertyNames/en/PropertyNames.locres" 135
+"../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf" 136
+"../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf" 137
+"../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf" 138
+"../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf" 139
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSpriteVertexFactory.usf" 140
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/VertexFactoryCommon.usf" 141
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/Common.usf" 142
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MetalCommon.usf" 143
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderVersion.usf" 144
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/CommonViewUniformBuffer.usf" 145
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/Definitions.usf" 146
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/Random.usf" 147
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleVertexFactoryCommon.usf" 148
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleGPUSpriteVertexFactory.usf" 149
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleBeamTrailVertexFactory.usf" 150
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LocalVertexFactory.usf" 151
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LocalVertexFactoryCommon.usf" 152
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/VectorFieldVisualizationVertexFactory.usf" 153
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MeshParticleVertexFactory.usf" 154
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinVertexFactory.usf" 155
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinCacheCommon.usf" 156
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LandscapeVertexFactory.usf" 157
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SlateElementPixelShader.usf" 158
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/GammaCorrectionCommon.usf" 159
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MaterialTemplate.usf" 160
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOfFieldCommon.usf" 161
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/GlobalDistanceFieldShared.usf" 162
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SpeedTreeCommon.usf" 163
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/AtmosphereCommon.usf" 164
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PaniniProjection.usf" 165
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/EyeAdaptationCommon.usf" 166
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCommon.usf" 167
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredShadingCommon.usf" 168
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LightAccumulator.usf" 169
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SlateVertexShader.usf" 170
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSortKeyGen.usf" 171
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleBoundsShader.usf" 172
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSimVisualizeShader.usf" 173
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleInjectionShader.usf" 174
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSimulationShader.usf" 175
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleCurveInjectionShader.usf" 176
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/VectorFieldCompositeShaders.usf" 177
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/UpdateTextureShaders.usf" 178
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementColorChannelMaskPixelShader.usf" 179
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementPixelShader.usf" 180
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ColorUtils.usf" 181
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/IESLightProfilesCommon.usf" 182
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementHitProxyPixelShader.usf" 183
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementVertexShader.usf" 184
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenVertexShader.usf" 185
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenPixelShader.usf" 186
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/RadixSortShaders.usf" 187
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinCacheComputeShader.usf" 188
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/NullPixelShader.usf" 189
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LandscapeGrassWeight.usf" 190
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/VisualizeTexture.usf" 191
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenSpaceReflections.usf" 192
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BRDF.usf" 193
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MonteCarlo.usf" 194
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenSpaceRayCast.usf" 195
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/FilterVertexShader.usf" 196
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/FilterPixelShader.usf" 197
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVisualizeHDR.usf" 198
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogramCommon.usf" 199
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/TonemapCommon.usf" 200
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ACES.usf" 201
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MiniFontCommon.usf" 202
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVisualizeBuffer.usf" 203
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessUpscale.usf" 204
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTonemap.usf" 205
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTestImage.usf" 206
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTemporalAA.usf" 207
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTemporalCommon.usf" 208
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSubsurface.usf" 209
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SeparableSSS.usf" 210
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSelectionOutline.usf" 211
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSceneColorFringe.usf" 212
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessNoiseBlur.usf" 213
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMotionBlur.usf" 214
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/FastMath.usf" 215
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVelocityFlatten.usf" 216
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MorpheusInclude.usf" 217
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMobile.usf" 218
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMaterialShaders.usf" 219
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLensFlares.usf" 220
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLensBlur.usf" 221
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBloom.usf" 222
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHMD.usf" 223
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogramReduce.usf" 224
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogram.usf" 225
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHierarchical.usf" 226
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessGBufferHints.usf" 227
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessEyeAdaptation.usf" 228
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessDownsample.usf" 229
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessDOF.usf" 230
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCompositeEditorPrimitives.usf" 231
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCombineLUTs.usf" 232
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCircleDOF.usf" 233
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/CircleDOFCommon.usf" 234
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBusyWait.usf" 235
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBokehDOF.usf" 236
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVisualizeDOF.usf" 237
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/FXAAShader.usf" 238
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/Fxaa3_11.usf" 239
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessPassThrough.usf" 240
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLpvIndirect.usf" 241
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightingCommon.usf" 242
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DynamicLightingCommon.usf" 243
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShadingModels.usf" 244
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVFinalPass.usf" 245
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVCommon.usf" 246
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredDecal.usf" 247
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessAmbientOcclusion.usf" 248
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessAmbient.usf" 249
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/CubemapCommon.usf" 250
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/VelocityShader.usf" 251
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/VelocityCommon.usf" 252
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/Tessellation.usf" 253
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/FlatTessellation.usf" 254
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PNTriangles.usf" 255
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentLightingShaders.usf" 256
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SHCommon.usf" 257
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionCommon.usf" 258
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentLightInjectionShaders.usf" 259
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionCommon.usf" 260
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentShadowDepthShaders.usf" 261
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthCommon.usf" 262
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/TiledDeferredLightShaders.usf" 263
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SurfelTree.usf" 264
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldLightingShared.usf" 265
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SurfelMaterialShared.usf" 266
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldAOShared.usf" 267
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionPixelShader.usf" 268
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowFilteringCommon.usf" 269
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionVertexShader.usf" 270
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthPixelShader.usf" 271
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVWriteVplCommon.usf" 272
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVWriteCommon.usf" 273
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthVertexShader.usf" 274
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityApplyPixelShader.usf" 275
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityApplyVertexShader.usf" 276
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityAccumulatePixelShader.usf" 277
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/HZBOcclusion.usf" 278
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/OcclusionQueryVertexShader.usf" 279
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/HitProxyPixelShader.usf" 280
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/HitProxyVertexShader.usf" 281
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentShaders.usf" 282
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentShared.usf" 283
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SkyLightingShared.usf" 284
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentComputeShaders.usf" 285
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LightShaftShader.usf" 286
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/StationaryLightOverlapShaders.usf" 287
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightPixelShaders.usf" 288
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightVertexShaders.usf" 289
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVVisualise.usf" 290
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVGeometryVolumeCommon.usf" 291
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVDirectLightInject.usf" 292
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVPropagate.usf" 293
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVPacking.usf" 294
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVBuildGeometryVolume.usf" 295
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LpvDirectionalOcclusion.usf" 296
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVInject_AccumulateVplLists.usf" 297
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVInject_GenerateVplLists.usf" 298
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVClearLists.usf" 299
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVClear.usf" 300
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LightMapDensityShader.usf" 301
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionPixelShader.usf" 302
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionVertexShader.usf" 303
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/HeightfieldLighting.usf" 304
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldShadowingShared.usf" 305
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/HdrCustomResolveShaders.usf" 306
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/GPUBenchmark.usf" 307
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/GlobalDistanceField.usf" 308
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/GammaCorrection.usf" 309
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingPixelShader.usf" 310
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingCommon.usf" 311
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LightmapCommon.usf" 312
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingVertexShader.usf" 313
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogCommon.usf" 314
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogPixelShader.usf" 315
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogVertexShader.usf" 316
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistortAccumulatePS.usf" 317
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistortAccumulateVS.usf" 318
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistortApplyScreenPS.usf" 319
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldSurfaceCacheLighting.usf" 320
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SkyLighting.usf" 321
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldSurfaceCacheLightingCompute.usf" 322
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldShadowing.usf" 323
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldScreenGridLighting.usf" 324
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldLightingPost.usf" 325
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldGlobalIllumination.usf" 326
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOnlyPixelShader.usf" 327
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOnlyVertexShader.usf" 328
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PositionOnlyDepthVertexShader.usf" 329
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DownsampleDepthPixelShader.usf" 330
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/EvaluateSurfelMaterial.usf" 331
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ConvertToUniformMesh.usf" 332
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassPixelShader.usf" 333
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassCommon.usf" 334
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ForEachLight.usf" 335
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassVertexShader.usf" 336
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassVertexCommon.usf" 337
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassTessellationShaders.usf" 338
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecompute.usf" 339
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecomputeCommon.usf" 340
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecomputeInscatter.usf" 341
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/AtmosphericFogShader.usf" 342
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ResolveVertexShader.usf" 343
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ResolvePixelShader.usf" 344
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/OneColorShader.usf" 345
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MediaShaders.usf" 346
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ClearReplacementShaders.usf" 347
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementTexture2DPreviewPixelShader.usf" 348
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementNormalMapPixelShader.usf" 349
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/meshpaintdilatepixelshader.usf" 350
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/meshpaintdilatevertexshader.usf" 351
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MeshPaintPixelShader.usf" 352
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MeshPaintVertexShader.usf" 353
+"../../../Engine/Config/Android/AndroidEngine.ini" 354
+"../../../Engine/Config/IOS/IOSEngine.ini" 355
+"../../../Engine/Config/Linux/LinuxEngine.ini" 356
+"C:/Users/sabot/AppData/Local/UnrealEngine/4.9/DerivedDataCache/Boot.ddc" 357
+"../../../Engine/DerivedDataCache/Compressed.ddp" 358
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 359
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 360
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 361
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 362
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 363
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 364
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 365
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 366
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 367
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 368
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 369
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 370
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 371
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 372
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 373
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 374
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 375
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 376
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 377
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 378
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 379
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 380
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 381
+"C:/Users/sabot/Documents/Unreal Projects/RolimaRace/Saved/Config/Windows/TemplateDefs.ini" 382
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Intermediate/Config/CoalescedSourceConfigs/TemplateDefs.ini" 383
+"C:/Users/sabot/Documents/Unreal Projects/RolimaRace/Saved/Config/Windows/GameplayTags.ini" 384
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Intermediate/Config/CoalescedSourceConfigs/GameplayTags.ini" 385
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 386
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 387
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 388
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 389
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 390
+"..\..\..\Engine\Content\Internationalization\icudt53l\numberingSystems.res" 391
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\supplementalData.res" 392
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\pool.res" 393
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\en.res" 394
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\root.res" 395
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 396
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 397
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 398
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 399
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 400
+"../../../Engine/Content/EngineResources/Black.uasset" 401
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 402
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 403
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 404
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 405
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 406
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 407
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 408
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 409
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 410
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 411
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 412
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 413
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 414
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 415
+"../../../Engine/Content/EngineSounds/Master.uasset" 416
+"../../../Engine/Content/EngineSounds/Music.uasset" 417
+"../../../Engine/Content/EngineSounds/SFX.uasset" 418
+"../../../Engine/Content/EngineSounds/Normal_Attack.uasset" 419
+"../../../Engine/Content/EngineSounds/Special_Attack_PSM.uasset" 420
+"../../../Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset" 421
+"../../../Engine/Content/EngineSounds/Voice.uasset" 422
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 423
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 424
+"../../../Engine/Content/EngineTireTypes/DefaultTireType.uasset" 425
+"../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf" 426
+"../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf" 427
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf" 428
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Black.ttf" 429
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf" 430
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf" 431
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\ucadata.icu" 432
+"..\..\..\Engine\Content\Internationalization\icudt53l\nfc.nrm" 433
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\en.res" 434
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\root.res" 435
+"../../../Engine/Content/EngineResources/AICON-Red.uasset" 436
+"../../../Engine/Content/EngineResources/AICON-Green.uasset" 437
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 438
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 439
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 440
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 441
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 442
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 443
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 444
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 445
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 446
+"C:/Users/sabot/AppData/Local/UnrealEngine/4.9/Saved/Config/Windows/SourceControlSettings.ini" 447
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini" 448
+"C:/Users/sabot/Documents/Unreal Projects/RolimaRace/Saved/Config/Windows/SourceControlSettings.ini" 449
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_CapsuleMesh.uasset" 450
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_TorusMesh.uasset" 451
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_HandColor.uasset" 452
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_PassthroughMaterial.uasset" 453
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_SampleDistortion.uasset" 454
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_TestTexture.uasset" 455
+"../../../Engine/Content/BasicShapes/Cube.uasset" 456
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 457
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 458
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 459
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 460
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 461
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 462
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 463
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 464
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 465
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 466
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 467
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 468
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 469
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Intermediate/CachedAssetRegistry.bin" 470
+"C:/Users/sabot/Documents/Unreal Projects/RolimaRace/Saved/Cooked/Android_ETC1/RolimaRace/CookedIniVersion.txt" 471
+"../../../Engine/Config/HTML5/HTML5Engine.ini" 472
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 473
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/GameInstance_CarrinhoDeRolima.uasset" 474
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/SaveGame/Save_Game.uasset" 475
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/Personaliza??o/TXT_Material.uasset" 476
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/HUD/Numero_dos_HUD.uasset" 477
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/GameMode_CarrinhoDeRolima.uasset" 478
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 479
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/Controller_CarrinhoDeRolima.uasset" 480
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/HUD_CarrinhoDeRolima.uasset" 481
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/HUD/HUD_CarrinhoDeRolima_Interface.uasset" 482
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/CarrinhoRolima/CarrinhoDeRolima_01_Player.uasset" 483
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/CarrinhoRolima/CarrinhoDeRolima_01_BPAnim.uasset" 484
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/CarrinhoRolima/Animation/Carrinho_Left_Right_Blend.uasset" 485
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/CarrinhoRolima/Animation/CarrinhoDeRolima_01_Anim_01.uasset" 486
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/CarrinhoRolima/CarrinhoDeRolima_01_Skel_Skeleton.uasset" 487
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/CarrinhoRolima/Animation/CarrinhoDeRolima_01_Anim_02.uasset" 488
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/CarrinhoRolima/Animation/CarrinhoDeRolima_01_Anim_T_Pose.uasset" 489
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/Mapa_Numeros.uasset" 490
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/CarrinhoRolima/CarrinhoDeRolima_01_Skel.uasset" 491
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/CarrinhoRolima/Material_Car/Madeira_01_M_Inst.uasset" 492
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/CarrinhoRolima/Material_Car/Madeira_01_M.uasset" 493
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/CarrinhoRolima/Material_Car/Madeira_01_T.uasset" 494
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/CarrinhoRolima/CarrinhoDeRolima_01_Skel_PhysicsAsset.uasset" 495
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/CarrinhoRolima/Material_Car/Madeira_02.uasset" 496
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/CarrinhoRolima/Material_Car/Madeira_03.uasset" 497
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/CarrinhoRolima/Material_Car/Madeira_04.uasset" 498
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/CarrinhoRolima/Material_Car/Madeira_05.uasset" 499
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/CarrinhoRolima/Material_Car/Madeira_06.uasset" 500
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/CarrinhoRolima/Material_Car/Madeira_07.uasset" 501
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/CarrinhoRolima/Material_Car/Madeira_08.uasset" 502
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/CarrinhoRolima/Material_Car/Madeira_09.uasset" 503
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/MESH/blueprint_carrinho.uasset" 504
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/MESH/NewAnimBlueprint.uasset" 505
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/MESH/CARRINHO_DE_ROLIMA_TESTE_Skeleton.uasset" 506
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/MESH/roda_de_tr?s.uasset" 507
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/MESH/Tire_Tr?s.uasset" 508
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/MESH/roda_frente.uasset" 509
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/MESH/Tire_Frente.uasset" 510
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/boneco_teste/muleke.uasset" 511
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/boneco_teste/Material__14.uasset" 512
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/boneco_teste/difuse_personagem.uasset" 513
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/Carro_race_rolima/ROLIMA_RACE_CAR.uasset" 514
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/Carro_race_rolima/material/01_-_Default.uasset" 515
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/Carro_race_rolima/material/02_-_Default.uasset" 516
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/Carro_race_rolima/material/04_-_Default.uasset" 517
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/Carro_race_rolima/ROLIMA_RACE_CAR_Physics.uasset" 518
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/Carro_race_rolima/ROLIMA_RACE_CAR_Skeleton.uasset" 519
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/HUD/HUD_Main_Menu.uasset" 520
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/HUD/Fontes/Fontes.uasset" 521
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/HUD/HUD_M/BTN_normal.uasset" 522
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/HUD/Sound/BTN_S_01_Cue.uasset" 523
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/HUD/Sound/BTN_S_01.uasset" 524
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/HUD/HUD_Mapas.uasset" 525
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/HUD/HUD_Money_EXP.uasset" 526
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/HUD/HUD_Nome_Personagem.uasset" 527
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/HUD/HUD_Paused_Menu.uasset" 528
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/HUD/HUD_Personalizacao.uasset" 529
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/HUD/Sound/Cash_S_01_Cue.uasset" 530
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/HUD/Sound/Cash_S_01.uasset" 531
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/Spawn_Rota/BP_Runner_01.uasset" 532
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/Coletaveis/Coin_01.uasset" 533
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/Obestaculos/OB_01_BP2.uasset" 534
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 535
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/Roads/roads_02_Mat.uasset" 536
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/Roads/roads_02.uasset" 537
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/Builds/build_01_L.uasset" 538
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/Builds/build_01_R.uasset" 539
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/Builds/build_02_L.uasset" 540
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/Builds/build_02_R.uasset" 541
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/Builds/build_03_L.uasset" 542
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/Builds/build_03_R.uasset" 543
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/Roads/RoadsMesh/Road_01.uasset" 544
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/Roads/roads_01_Mat2.uasset" 545
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/Roads/roads_01.uasset" 546
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/0/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF9A94DC__86E4E83FB0E746CDA7E889080F811552BCBF1C99.udd" 547
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/9/STATICMESH_46A8778361B442A9523C54440EA1E9D_8C68575CEF434CA8A9E1DA4AED8A47BB_AC__D4AE310C3655037B0A016A6205F052D8A8732A58.udd" 548
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/7/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_09BA2E954647F03ED__29E59B4445A8A8EEFDCC1C68643A905976C5CB79.udd" 549
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/5/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_09BA2E954647F03ED10FA9B911DD400__EC3D11CB82B45EE1F1FB47EB606C8996C68D1D19.udd" 550
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/0/STATICMESH_46A8778361B442A9523C54440EA1E9D_8C68575CEF434CA8A9E1DA4AED8A47BB_24__4D72C40D2F71FF53C4CE187EBF88783DF6394118.udd" 551
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/1/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_83CC6D344A96D105D__2E2E74306DE135244DD2304047813D2D0AA03A4B.udd" 552
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/7/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_83CC6D344A96D105D64FEAA1A6FFF55__F3A065FAD413C81111DE1A76F40BC37A5BCD4DAC.udd" 553
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/4/STATICMESH_46A8778361B442A9523C54440EA1E9D_8C68575CEF434CA8A9E1DA4AED8A47BB_D2__3BE6A4FE0F0BF14D79997076E2FED28C90AEB757.udd" 554
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/9/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_4DE8678246A2756B1__7489DE9D0188E0DB334D115BCEE940D45A45C058.udd" 555
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/0/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_4DE8678246A2756B14F97DA4519C001__9C4986F773007198068E2CC26E519D7209B5E726.udd" 556
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/4/STATICMESH_46A8778361B442A9523C54440EA1E9D_8C68575CEF434CA8A9E1DA4AED8A47BB_E1__1813833159931F18A39057335967D1520489B5ED.udd" 557
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/9/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_148BAD884729FF625__01A41718719C5E5168497888E2799A6F9A1A1370.udd" 558
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/8/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_148BAD884729FF62504C7E97A35A5FC__EE4AEEA309FF616E723660F735E393BBC0602C6B.udd" 559
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/0/STATICMESH_46A8778361B442A9523C54440EA1E9D_8C68575CEF434CA8A9E1DA4AED8A47BB_58__A439B42A812030BCBB71AEE640BD7D29AD919845.udd" 560
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/3/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_64764B614403E1939__EC1C96EF0C1DEBA83560EDD54AFF97AE9E8AA317.udd" 561
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/7/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_64764B614403E1939E0D1DAFADF69EE__A0DD23EA71A39F350BD7BCDDC415F79FF9016402.udd" 562
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/7/STATICMESH_46A8778361B442A9523C54440EA1E9D_8C68575CEF434CA8A9E1DA4AED8A47BB_51__87D3E76C48DE54C253FE1C079AC70F661A8BE72E.udd" 563
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/6/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_34ECAD1C404945C73__125ED18DDB23219C773F3D63B4D0E1F70BD08727.udd" 564
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/1/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_34ECAD1C404945C7380D4C8A1333B94__E0D810F1D948F884AE607A5144DA921E4A88C319.udd" 565
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_8C68575CEF434CA8A9E1DA4AED8A47BB_01__1F50AB86BFBECE3FD2E53A36117B02B95860CD33.udd" 566
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/5/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_583343944025E6507__0C546CDAA8AA311F1AC5EEACD9744E66A939DAE3.udd" 567
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/1/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_583343944025E65076DBEA99FB4A633__B37B675FEE6F354FC2AA1AB2AC98DEF77BBCB7F1.udd" 568
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/1/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF5506A6__ABA0FECF430E54B09302378640BB7FE4E60987D7.udd" 569
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/5/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF733C4D__8F8F10F1719813E82FE8BEB991DF1DA72236605B.udd" 570
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/4/AUDIO_0002_0000_OGG_0001_B8855D444857CF50CAA2EF9C2BA06503.udd" 571
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/0/AUDIO_0002_0000_OGG_0001_9282890A4A3CDE520206AA8F900DF772.udd" 572
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/8/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF67238F__203A06090C0A3583C96952DCAEC5BF33E66CDB54.udd" 573
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/5/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF3E205C__1C9863650B609B6F7178D9CEE61DAFF9A7CB69CC.udd" 574
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/1/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFDFA024__36C15553954555D8916437376F88060BC3DE27C6.udd" 575
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/1/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFF43F20__0B21B9231C00B2A36D6753228497876DA36AEF0A.udd" 576
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/3/STATICMESH_46A8778361B442A9523C54440EA1E9D_8C68575CEF434CA8A9E1DA4AED8A47BB_E4__E9823DFB29F4F2268BC03FC85678A2D8C27CA038.udd" 577
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/6/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_66DF414F4A9BB5BA4DF595A47DFE51B__F11C831028803FF4B2161AEE901B8A6E41646927.udd" 578
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/9/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_66DF414F4A9BB5BA4__E845D8A086539DF02A4E5751749DAAADDDBD7139.udd" 579
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/1/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF046FBF__DEA7847F8A40070E897BF098549498F27C96A521.udd" 580
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/MESH/CARRINHO_DE_ROLIMA_TESTE.uasset" 581
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/MESH/01_-_Default.uasset" 582
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/MESH/02_-_Default.uasset" 583
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/MESH/CARRINHO_DE_ROLIMA_TESTE_PhysicsAsset.uasset" 584
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/4/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFECFA3A__24C0D2F1A9FF1ADC4D48C0E4E36D5AB9B20293A0.udd" 585
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/1/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_BB54866640CB9F2437CC36A2A833AB2A__1_1_13123_0.udd" 586
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/7/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_252FDD9C47C2A411908659BEF8FC0B7C__1_1_13123_0.udd" 587
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/8/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_44D82F61485DF797D5A49396350C1751__1_1_13123_0.udd" 588
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/1/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_AF6D076447EB955D5A581DADB6C6B73D__1_1_13123_0.udd" 589
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/1/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFBC6662__A36D028D518D04466F319C3EF48CD9BEA0807175.udd" 590
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 591
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 592
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/4/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFF7646F__705E156A964E33E44E560AE50E652433D66F2ED6.udd" 593
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 594
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/1/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFE7AF19__FC035E07A0F8BEB9CBDA263659D6E1F3F9038988.udd" 595
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationLitMaterial.uasset" 596
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/3/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFEB6949__05F56B47EB28F8472CC9FBC78B5CA2FEDF5AD803.udd" 597
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationUnlitMaterial.uasset" 598
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/2/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF0050C5__CBD289ED25C62C88B92DAC201D350B41335D3804.udd" 599
+"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uasset" 600
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationLitMaterial.uasset" 601
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/2/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFD13C5D__1D3CE3CC51509A95EA915473F5F39E248F69F05B.udd" 602
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationUnlitMateri.uasset" 603
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/8/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF2DF009__B6DE06E197111268ACF189AACDFC9FEDAFCD3190.udd" 604
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 605
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/3/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF06C18A__74A9542B88C338D4DD9F49379E994CCFE9CD827A.udd" 606
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_ColorOnly.uasset" 607
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/4/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF9E7836__0FF828023D0BABB5B59567D3E4EE3575503247F9.udd" 608
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_AlphaAsColor.uasset" 609
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/9/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFE13ECC__873A491F39373B7AFE5BF2D56073BFEB50831001.udd" 610
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 611
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/0/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFE99ECB__2135F2AE7BA1674784D8DDFE02D25C9F3DB839EF.udd" 612
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset" 613
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/0/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF086D49__4283D5A19DA01BC68A3AB8FBEA6D2919B548CC8E.udd" 614
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset" 615
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/4/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF07B1E5__41CC178007C48B159BC9903E9FEA18387D9040A4.udd" 616
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 617
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 618
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/8/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF32DBCB__950938A3E20288E8A9BA16250EFAE5C717A76D34.udd" 619
+"../../../Engine/Content/EditorMaterials/PhAT_JointLimitMaterial.uasset" 620
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/8/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFCA0E6D__3C830D6C2B9BEA6415602B67E739EEF6DAD1CA49.udd" 621
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 622
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 623
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 624
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/0/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFBA2C52__DAD9C6CF208FAD6A319333C824488689A9D45A6B.udd" 625
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 626
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 627
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 628
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 629
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 630
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 631
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 632
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/7/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFCA17AC__BA83AFC685EB5637330BDEE5E2067AC60C0FAEC1.udd" 633
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/2/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFC9EC73__4B55F8DF2702A71341F6A5E7D8883AD62378A955.udd" 634
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/6/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFE7FC03__F31C5252EC0CF43B0ED338CA66457731BA89DE66.udd" 635
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/3/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFECFD70__7A02A67466BEC5B71EAE94ED1E14C15C28175BD7.udd" 636
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/5/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF7DD52D__A53BE66A9A64D3F14119D46D10B71FA0B53CDBDD.udd" 637
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 638
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 639
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 640
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 641
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 642
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 643
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 644
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 645
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 646
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 647
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 648
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 649
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 650
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 651
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 652
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 653
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 654
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 655
+"../../../Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset" 656
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Tutorial_DM.uasset" 657
+"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 658
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 659
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 660
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/3/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFD4CBC3__4346694B89701B1949DD2089A97D410A45795127.udd" 661
+"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 662
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 663
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 664
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 665
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 666
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/6/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF81623A__D3A2F924E9AB81824C9F0AEEB311A8DBDD3EF38E.udd" 667
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorTutorial.uasset" 668
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkthrough.uasset" 669
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset" 670
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Idle.uasset" 671
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 672
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Walk_Fwd.uasset" 673
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 674
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 675
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 676
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/1/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF9F95EF__152F3FA40B731B06A5B1619CDF6FEABAB775C2AE.udd" 677
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 678
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 679
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 680
+"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 681
+"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 682
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 683
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 684
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 685
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 686
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 687
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 688
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 689
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_C45F0F7D439FAD52041B1EBC5A8A__D70A1D3B2335C1EE12B39BC408FA4D616AD2FFF5.udd" 690
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_FDD461EC4EDF5F99C659709B7A42__C8B2C65C1BA487E3720800B582FB10D024F07834.udd" 691
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_FDD461EC4EDF5F99C659709B7A42__19EA3428432418391095AD44132692F2B38BD2F4.udd" 692
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_FDD461EC4EDF5F99C659709B7A42__6473E285F185AD6E4A8DC9C4F54ECD5C549CDD28.udd" 693
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_FDD461EC4EDF5F99C659709B7A42__C76E0181F463119C7FE9FA0FAE20677FF9FCF519.udd" 694
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_565E0359430950FA252A118AF852__47DDF168A03789F62D431F2E0EE2547CB04064DB.udd" 695
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_565E0359430950FA252A118AF852__3CDCC7A028AA2DD31E2654D62E4CB3C7A024ED83.udd" 696
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_565E0359430950FA252A118AF852__8EC7AA032E4C03BBD00D6F2854B72A30BB196CFA.udd" 697
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_B21C1AFF42ACD5ADC8C382B3A090__73E9513DEF1A5092C629AB2EDC81757945065356.udd" 698
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_B21C1AFF42ACD5ADC8C382B3A090__D09FC154CB43670D5B5413A68DE48FD2A0936D7B.udd" 699
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_B21C1AFF42ACD5ADC8C382B3A090__35B28E40AA36AED6F18912E02B7C47E3729B4878.udd" 700
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_B21C1AFF42ACD5ADC8C382B3A090__4D323874B4BA3FB581A7B089BDC848D8EE046D70.udd" 701
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_B21C1AFF42ACD5ADC8C382B3A090__E488BD79ECAB7FAFDE59C6A95E6BA28D81D1A567.udd" 702
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/5/TEXTURE_814DCC3DC72143F49509781513CB9855_ETC1_15564967414184874DBCB89C44D5959C__F181D193C1836F7B4D89D3B7424ABEA433F1B8AD.udd" 703
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_ETC1_15564967414184874DBCB89C44D5959C__D639EA1A4A8E021BA2FC650D98746C5DF6E56DB7.udd" 704
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_55809E694EE7DB292235CC917A5C__B6F822935B2F0FED152AC31CB845D812CD80930A.udd" 705
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_55809E694EE7DB292235CC917A5C__2220EA14812A4680C1DE26E5041E779ED23B8418.udd" 706
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_55809E694EE7DB292235CC917A5C__C2D68B3D30837ED56C8F3B06A26D3F9C8D36DB0A.udd" 707
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_7BC0404946D77A8C093A10AE0677__80810EF16269804675B5137E682BE563649CD249.udd" 708
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_7BC0404946D77A8C093A10AE0677__262B0F33E6004ABD62E4A40B67EF4DC0693DFDAB.udd" 709
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_1EC0B18B47E75959952584B5D8D9__3B99657ABE8CCB80A17BC0EDA79809F9851372F5.udd" 710
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_3D7D3365419CADDBF5E531B12CF1__A65A9AD2572A8898DF7083896F97424138824265.udd" 711
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_3CAC1F094FB87A98E53D7D8A2464__11F17F4AFE525C958306D6EB1AE3CDDD5B6C976D.udd" 712
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_33CBEF834D7D60ED9D58E5940B7B__667CFEF6008FB5FE91D013D1914BEDF59918D273.udd" 713
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_CBF5B13548AB62E6A9ADA387D1FE__F71A258E05ABB167EB02D5C9A22EFDE9E3A9CF81.udd" 714
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_E38B68B34F759D23C6E5CD925E4D__EB951DF5A3DE1A93CBF566895B50594BEAFADF28.udd" 715
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_E55F8197440DD2855E7F4D9816C8__3FF7C93E035F68C82BF95A9B21A379B6D2E9CBF2.udd" 716
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_A6C0C4B74D09BE1A7E2C31B7CA77__84CA448C96071B985EB8A784D7975237DA5C8CF5.udd" 717
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_7D98C11E41884B4A67A497A07B02__44C003669667EF769DC2427B7AF261271ABC4461.udd" 718
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_74A80EB64112E46096AE17A812C2__977868BB8B9171E9423A364857926E61F5753E71.udd" 719
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_264ABDF14257816FFA9477A6F6A1__784B23D5DF75369AEC310988ACCAE1B443463AFC.udd" 720
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_025102BB43BBEAC3F07578891938__F3343506669D61017C91AAA12B449FDB45E5C338.udd" 721
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_C55865344733442FBAD7D29E0B65__372F48D3D7135B225E36DC983E15196133E48FD2.udd" 722
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_6A6029554EC6CEDCFFC9E0836D46__557F9EB7EE5FB69FC5FE408311C94B8135BCE13A.udd" 723
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/0/TEXTURE_814DCC3DC72143F49509781513CB9855_ETC1_C349D2FA2A30FC1134357D3272F2DC90__4231A3D6757BBDC8CA3D4984667DB578E2D0C097.udd" 724
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_09053A42486F57C671A2B9B0F627__F613C97CCF19C16E1ABA505EF0F79D3432D8B42E.udd" 725
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_B07BB94C4024838454154883B787__732C88388C05AC238D6E9B9C76CA627331A27C11.udd" 726
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_584A79B6465982423406428F0D77__13B45E301D3369C33C1B4FFEAE67BA250077E01E.udd" 727
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_584A79B6465982423406428F0D77__BDA2BD6F1B52CCA4931B668FF6FA755A23C6BFE4.udd" 728
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_F5B300EB4E4ACA2755332398BF63__297C070DDE8F7FF7257B1B0AFC4D321DC8C6A76F.udd" 729
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_2C8A101D47D0C7AC5EFF01B747F2__C3B8A8B268200822C45CDC6415105668DE3C4EDA.udd" 730
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_2C8A101D47D0C7AC5EFF01B747F2__9087B17C71CE5AAD606682868FAC7547DC48F95C.udd" 731
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_2C8A101D47D0C7AC5EFF01B747F2__79676ED14F31D565B7B75346BD20C98FE2C75B87.udd" 732
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_2C8A101D47D0C7AC5EFF01B747F2__21725D62D49E23AD972B3B28066D5EDAE15FC4A1.udd" 733
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_5075C5404C9665C57F66B49F2C5D__FA6B9CB67A3B9E6CFA8A11F35CCF4CBC103241C7.udd" 734
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_5075C5404C9665C57F66B49F2C5D__25157AE026C48BA8C733E8DFABF17919BA65CA74.udd" 735
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_5075C5404C9665C57F66B49F2C5D__2FC8C6DF9CC9CA632BCF8D7740DC5D7543E3C174.udd" 736
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_5075C5404C9665C57F66B49F2C5D__1F738BD666421D1FBB0FAF3B6CF4A871631097D3.udd" 737
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_B1F6A23D46761DA1743FBE984F9E__919788CAE17711C81A985EA6EA2CE2D6BA423C01.udd" 738
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_95D01D314436990422EF30A4E4FA__F80B9955E93ED4A60A294D3BC305ACB43F70A521.udd" 739
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_95D01D314436990422EF30A4E4FA__C09BC3A9B0D2DF0C378C328F59C00CED1DAA401F.udd" 740
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_6A00F1654C244F95E8B15E9A15BE__6A687B3F117203635CC82CABD2199DE2A112754F.udd" 741
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_A5E28525480F8268BF36ABA7EBDF__D0C4BC60F31DCD3DA4D4792D74D43DF0A29A50BF.udd" 742
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_A5E28525480F8268BF36ABA7EBDF__5C08348D567090A0FD1FA9F5B78B4BB31BD8BFC8.udd" 743
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_A5E28525480F8268BF36ABA7EBDF__E8D340F017AAEA3894B107603D947E44593091D4.udd" 744
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_A5E28525480F8268BF36ABA7EBDF__A2C544526F565A37D5759A7E98704C1508DC0CFF.udd" 745
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/8/TEXTURE_814DCC3DC72143F49509781513CB9855_ETC1_A1C52E6A43A1109B0752B4B5980EA23D__E66C4786213BB04A1F392202AAB98D55FA65D32A.udd" 746
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/3/TEXTURE_814DCC3DC72143F49509781513CB9855_ETC1_A1C52E6A43A1109B0752B4B5980EA23D__5232B3149F96501E8F17AA888BEFFA029B0A86C7.udd" 747
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/3/TEXTURE_814DCC3DC72143F49509781513CB9855_ETC1_A1C52E6A43A1109B0752B4B5980EA23D__E0A09DCE8E3296DAC0AC366BDF2FFAF4319F6D0C.udd" 748
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/9/TEXTURE_814DCC3DC72143F49509781513CB9855_ETC1_A1C52E6A43A1109B0752B4B5980EA23D__70E905FB9F2EA7F704C5BD99FAAA6ACAEE5DD15B.udd" 749
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_3648AA2A4A658DE90371B081D8DC__C41C0CA21DF7F2DD487E711B546A34DD806B40EC.udd" 750
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_3648AA2A4A658DE90371B081D8DC__F732A41DBAB5986B67104D00F2BC2D1D748EE96E.udd" 751
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_3648AA2A4A658DE90371B081D8DC__07AE8E619EDEC8F5E52A7F140A49B3EE19041097.udd" 752
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_3648AA2A4A658DE90371B081D8DC__2FAA2145D18B43083ABCA1139FC1B477FCA7C923.udd" 753
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_3648AA2A4A658DE90371B081D8DC__3175DC16CED16B495BA8E597089682884F4EFDB4.udd" 754
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_91A201FE4781221C42DEDE91696E__6F4E55FCE7C6F2B65676F88176899BD231D46883.udd" 755
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_91A201FE4781221C42DEDE91696E__A9219497DD2300EA3520718E70090DB3A341588D.udd" 756
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_91A201FE4781221C42DEDE91696E__6D57A14CC76E80645EA69083160DE0AD018BB67A.udd" 757
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_91A201FE4781221C42DEDE91696E__5189458CB7E4C4D3ED75CCC82D5ADDDB35A2FA0A.udd" 758
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 759
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_8EDAF7A54E378800FEB217863433__CF961769FF928EEADFD63FE3788070AC2503EA81.udd" 760
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/vidros_4.uasset" 761
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_5553E4C3471A46B29E9E92BB6CC2__858EFB89121AF7FEE76257ACABB1D0CE8A2F7109.udd" 762
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_5553E4C3471A46B29E9E92BB6CC2__14E6BB8021C88C51D084BF937BE774FA28AB1451.udd" 763
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_5553E4C3471A46B29E9E92BB6CC2__F07912EA394FE24889C1C54525C41975439C6479.udd" 764
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_5553E4C3471A46B29E9E92BB6CC2__D6FFB1C77EC0C0E89E7A378857A1E517D759CC34.udd" 765
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_6ADD0DA8446915BCC776A0B45F17__EC3A708920C0516E7658E9C37548DD266FE37437.udd" 766
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_6ADD0DA8446915BCC776A0B45F17__F5A09616D54278B9654A1AA8E85C412FAB9B0362.udd" 767
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_6ADD0DA8446915BCC776A0B45F17__79018142EFCCB91FCB6F631C5194C273428B5AED.udd" 768
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_6ADD0DA8446915BCC776A0B45F17__E748297EAD100CBF5EF146A7310C83CD15F18073.udd" 769
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_6ADD0DA8446915BCC776A0B45F17__D3EC72BE8CFFBB1DF7CA1AAA426F0A0858B8D45A.udd" 770
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/roads_04.uasset" 771
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_3112428C498EE93D996821B28447__7B82BD13153E23A7632442411B90957F3A6DB3E9.udd" 772
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/Carro_race_rolima/roda_traseira_fisica.uasset" 773
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/Carro_race_rolima/roda_traseira.uasset" 774
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/Carro_race_rolima/roda_frente_fisica.uasset" 775
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/Carro_race_rolima/roda_frente.uasset" 776
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/Carro_race_rolima/NewAnimBlueprint.uasset" 777
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/Carro_race_rolima/Blueprint_rolima_race.uasset" 778
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_EFEFA32D4F4D0FEE1E1DEAAAAF9C__0F44793562336247B16540FF386D3512FA906510.udd" 779
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_EFEFA32D4F4D0FEE1E1DEAAAAF9C__1F93EA20B87569B6966ED7CEB41CA9BE1D1F3B3A.udd" 780
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_EFEFA32D4F4D0FEE1E1DEAAAAF9C__4B323DCB4B011C2A441E3DC8185BBAF1F6811964.udd" 781
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_EFEFA32D4F4D0FEE1E1DEAAAAF9C__43BE09AE154E2BE1B505DF53603DC6FFFB3D24A8.udd" 782
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_EFEFA32D4F4D0FEE1E1DEAAAAF9C__9CA89448FADBF699A2E112C1677BF78D82B82CB2.udd" 783
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/Roads/RoadsMesh/Road_01_L.uasset" 784
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/4/STATICMESH_46A8778361B442A9523C54440EA1E9D_8C68575CEF434CA8A9E1DA4AED8A47BB_B5__FC3ADD24D5E69EE6ECF8F9B8C262B240B3695C65.udd" 785
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/7/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_CC806EA742A393D38__69C89CB2E3389CBC2CB2D7DDB261BEBE2A140CEF.udd" 786
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/2/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_CC806EA742A393D38FA29AA1F2CE1E7__283F1FD8D216C0F1CF7428870EFC3A7DE26E7F3A.udd" 787
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/Roads/roads_04_Mat.uasset" 788
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/Roads/roads_04.uasset" 789
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/4/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFF7FB9E__EC6C5BBD46DB66C1996AF4185DB829D312592A57.udd" 790
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_2534E85142F53FF9FD270D84055A__67C7A5FCF7DC967EF80963E65B0716EE786D82E1.udd" 791
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/Tijolo_01.uasset" 792
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_36818D0743CBFA56A8D05C888E2D__EDAC1E83B8F271FA1D0D7698D231214E18A76A90.udd" 793
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_36818D0743CBFA56A8D05C888E2D__62078F39A277279B78306B4E7AF25E56FCB462F3.udd" 794
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_36818D0743CBFA56A8D05C888E2D__75C0FF14903FA2586DF5FECE81F3C1AE3D6A1B65.udd" 795
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_36818D0743CBFA56A8D05C888E2D__21FBC1CB37E933F364A64465FA6D1B87FA571B1B.udd" 796
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_36818D0743CBFA56A8D05C888E2D__26354E41475A98CFC9EC15858FD7FA5C10E924A1.udd" 797
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/Carro_race_rolima/Blueprints/RACECAR_ROLIMA.uasset" 798
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/Spawn_Rota/NewBlueprint.uasset" 799
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/Obestaculos/OB_01_BP.uasset" 800
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/Obestaculos/OB_01BP.uasset" 801
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/8/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_B82D391B4F99EE3D3E046BAAAC1A1A7__F33F7C481FDE35A72FB472D33CDABA393A026E3C.udd" 802
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/telha_de_ferro_02.uasset" 803
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_A97A91BE44EF22A035E758A91BC4__00AAB57FE4166833FC7CEC439370C62B4A80F9DC.udd" 804
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_A97A91BE44EF22A035E758A91BC4__950EBE56FA3B940501755941342F4F8399D23C87.udd" 805
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_A97A91BE44EF22A035E758A91BC4__DED8EBD27BD76717306EDB0673365B009491B577.udd" 806
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_A97A91BE44EF22A035E758A91BC4__AC76821D847E3A38140FCDE0538704CE5896EE39.udd" 807
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_A97A91BE44EF22A035E758A91BC4__DC8BBCC9CDB432F6B52EBD0121364D5098AF593F.udd" 808
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/CarrinhoRolima/Animation/Carrinho_Left_Right.uasset" 809
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/CarrinhoRolima/NewAnimBlueprint.uasset" 810
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/Scale_Value_Carrinho.uasset" 811
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/HUD_Carrinho_Personalizacao.uasset" 812
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/GM_CarrinhoDeRolima.uasset" 813
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/CarrinhoDeRolima_GameMode.uasset" 814
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 815
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 816
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_C49FDA8C4EFE04B87EBA5CB5A57D__3D9BB883A240F2BBA954D3BDF46B92BDDE31C499.udd" 817
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/Roads/roads_01_Mat.uasset" 818
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/5/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF07FB97__36BDDD02BEB046EF8619C58E4E2A9EDE2E124CAE.udd" 819
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_5CDC8C0A417652CBE8791FAB1CF5CA8__8E08E90AB4083CDB01A3FA42F27455287B397ADA.udd" 820
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/telha_de_ferro_01_Mat.uasset" 821
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/telha_de_ferro_01.uasset" 822
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/telha_de_ferro_01_N.uasset" 823
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/6/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF0C39DA__059C4D0B1276E47887F996F88457217039F8BFA2.udd" 824
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_605F4141409F7FFB43D23F90A864__B3980380835CA72667277009EABAE46F078A93D5.udd" 825
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_605F4141409F7FFB43D23F90A864__233CDB78BBF3B3C950F2A8DB557294DDF03F7E96.udd" 826
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_605F4141409F7FFB43D23F90A864__03E97FFA3B4126DFE60065957741D3BE5496EFF7.udd" 827
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_605F4141409F7FFB43D23F90A864__DBE738847E249171CC0141ECA502E48092C8A9D1.udd" 828
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_605F4141409F7FFB43D23F90A864__C5FE6B585629721A1A80A28CA53F15CA2B96F603.udd" 829
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/Tijolo_02.uasset" 830
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_BB60B97A49C7D691C94A7990FBAB__C1BE47D8D95A336CA9D8FB1A5F508073A27D6312.udd" 831
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_BB60B97A49C7D691C94A7990FBAB__80E85D05483C6D7CB179B0DBC9945BEFF9702DDA.udd" 832
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_BB60B97A49C7D691C94A7990FBAB__E7153DD9170D1F0EC81E9A437C4D2D29D6E05883.udd" 833
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_BB60B97A49C7D691C94A7990FBAB__6C85D77E6DFC4FF3D562E88DF4ACD7A2EC810046.udd" 834
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_BB60B97A49C7D691C94A7990FBAB__20794730629D1BCB5C58F47D37C1A4DDC73C911E.udd" 835
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Personagem/Anims/personagem_animation_01_Idle.uasset" 836
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Personagem/Anims/personagem_menino_Skeleton.uasset" 837
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Personagem/Anims/personagem_menino.uasset" 838
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Personagem/Anims/difuse_personagem_Mat.uasset" 839
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Personagem/Anims/difuse_personagem.uasset" 840
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Personagem/Anims/personagem_menino_Physics.uasset" 841
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/7/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF018BE4__EA7FAC3EF4FF30FA235667B3DF4EB11112008DC8.udd" 842
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_F6BBDF324149B6AFAA7C3E860D1B__6FA8B2D05DB8868263D56D88769D417C84A288F3.udd" 843
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_F6BBDF324149B6AFAA7C3E860D1B__939FE5185781F63ED91068DACEF12C81C2DAAE3B.udd" 844
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_F6BBDF324149B6AFAA7C3E860D1B__FB28EFCC8FFA8775ECB74B04FC3B32ACE5C3350F.udd" 845
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_F6BBDF324149B6AFAA7C3E860D1B__54B479C5784BDD8F95320B13B8406F47316269F3.udd" 846
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_F6BBDF324149B6AFAA7C3E860D1B__C57DB2C8F847949CCE7CD82350FC09DD13775C2B.udd" 847
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_AEE0E0E84BEA266C6603C99AEEDEB32__FE275F76B2383C4F951AF76915ADF961F475B948.udd" 848
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/CARRO/MESH/NewBlueprint.uasset" 849
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/8/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_03C3767D42630651BD4C61B042EE7BD__A41D706F37F3E7419CCF5A0112BBA8D41C5E4CCC.udd" 850
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/Personalizacao/M_Level_D01_P.uasset" 851
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/4/STATICMESH_46A8778361B442A9523C54440EA1E9D_8C68575CEF434CA8A9E1DA4AED8A47BB_66__6BCA98C459CC6F20F4327FFC3034CAD5193157D9.udd" 852
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/7/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_4B7E0A4B439B32282__E5EECEA17543C95C5CA0CFF8B7DEE5C641E7832E.udd" 853
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/7/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_4B7E0A4B439B32282662BBBDDC7D7B4__0BEE7ACED6DA27823013B3B1DCF16B3065405503.udd" 854
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/Personalizacao/lambert18.uasset" 855
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/Personalizacao/7f04e67e.uasset" 856
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Material/Black_M.uasset" 857
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/4/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF84F030__47A22B98D896CD5932F3BF7BF2950D0F427A6FEC.udd" 858
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_3B53A735434BF2304315868EA531__B855EE1592280756BF5D7EAF64DB36D488683D38.udd" 859
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/vidros_4_N.uasset" 860
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_EEA632964EBB727F454E44A6B244__21D1A8AC398ED42A325E4D242382055F245B0801.udd" 861
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_EEA632964EBB727F454E44A6B244__2B753AF25A337D04629A84F1B0F4CED09D914241.udd" 862
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_EEA632964EBB727F454E44A6B244__F0C6D623F5C97B57B723BB3FFE36FBB02E1A24BA.udd" 863
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_EEA632964EBB727F454E44A6B244__54B79AA620DFA7DA0B15FCC4833AC0CFC7D15B8F.udd" 864
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/HUD/HUD_Nome_Persona.uasset" 865
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/HUD/HUD_.uasset" 866
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Content_F/Mesh/predio_03_F_M.uasset" 867
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/Concreto_01_Mat.uasset" 868
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/Concreto_01.uasset" 869
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/Concreto_01_N.uasset" 870
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/Portas_01_Mat.uasset" 871
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/Portas_01.uasset" 872
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/Portas_01_N.uasset" 873
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/Tijolo_01_Mat.uasset" 874
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/Tijolo_01_N.uasset" 875
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/vidros_4_Mat.uasset" 876
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/7/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFF02657__DA21FCC3D2304137B671E492D1311A2769B96C69.udd" 877
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/1/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF1EEBB5__7B3CCC876C7F7E0F12675B637C364658085F5B10.udd" 878
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/9/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFB204DE__803CEC839CCE287BC7FBABE5F27F8B97E5503199.udd" 879
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/1/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF902F89__0C99AA014E40E583D583C5DF5ADE160B8C1BC4C3.udd" 880
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_8C68575CEF434CA8A9E1DA4AED8A47BB_39__A99A7501653E1866A06F4937955A289491612921.udd" 881
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/9/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_2D13A007400568F71__641B25D89AA72B947AD5DCCFF9186BC5F350C0C2.udd" 882
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/0/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_2D13A007400568F717D21F9973A051C__0C4459380337C5A06E2D50209285D798DCA72BDA.udd" 883
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Content_F/Mesh/predio_02_F_M.uasset" 884
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/Madeira_01_Mat.uasset" 885
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/Madeira_01.uasset" 886
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/9/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFBF368A__22C3C09C964B1DEF0CB43F62C2352193B0CF4385.udd" 887
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_8C68575CEF434CA8A9E1DA4AED8A47BB_1F__C025FDF94BA7F731D827F1D223439839C08DB383.udd" 888
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/7/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_FE09B7984E2F4CC37__CC94C79DDB06AD9CE79B635F1DCCE60C0AD43064.udd" 889
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/7/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_FE09B7984E2F4CC37ECB26A0E462F10__9C083C2FE9CA8EBDF3CAF7A4224BBBF8CFABB048.udd" 890
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Content_F/Mesh/predio_01_F_M.uasset" 891
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/5/STATICMESH_46A8778361B442A9523C54440EA1E9D_8C68575CEF434CA8A9E1DA4AED8A47BB_15__92C217F35A219797B4C4C327A6718F1206BAB51F.udd" 892
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/6/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_7D6A533B4E81A6217__D624FEEA44C61566E8EEF5CD1ACA10B3831F3105.udd" 893
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/1/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_7D6A533B4E81A6217F4FD4889C64879__C5DA5C1F902CF719851B230E5158C50B1E7F66D8.udd" 894
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_168268A8417DB9AFC25B9A963D3CE12__310DB7D8BB8477D796F06C4D205C5FD28A45C595.udd" 895
+"../../../Engine/Content/Maps/Entry.umap" 896
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 897
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_122003924E39A572EF68B5BAC8A9__13325DD553F218247EE660297591AE69DE54CD80.udd" 898
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_122003924E39A572EF68B5BAC8A9__48693624F0E1891D0EE02E5E6C92C5D18B943A57.udd" 899
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_122003924E39A572EF68B5BAC8A9__3FA0A83C3E924472AAFB54217E8BF113653DB397.udd" 900
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_122003924E39A572EF68B5BAC8A9__C892017FB3DDF0F30211697ACD39E63F080707AB.udd" 901
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_122003924E39A572EF68B5BAC8A9__007921604EBDFA0C7AB7474413FA9C2BB70991A4.udd" 902
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mapas/Mapa_Personalizacao_car.umap" 903
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/Personalizacao/M_Level_D02_P.uasset" 904
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/Personalizacao/M_Level_P.uasset" 905
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/concrete_02_M.uasset" 906
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/Doors_01_T_Mat.uasset" 907
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/Doors_01_T.uasset" 908
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/Reflection_M.uasset" 909
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Sky/Sky_Sp_01.uasset" 910
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Sky/TXT/Sky_Dia_01_Mat.uasset" 911
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Sky/TXT/Sky_Dia_01.uasset" 912
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/6/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF51A319__04CE0601160D5B9B5A43C4E6A1D3C2AE23BB32BD.udd" 913
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_8C68575CEF434CA8A9E1DA4AED8A47BB_55__5AB7BB9B662C3C313B94CBA51D489ABBA9EFCC30.udd" 914
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/0/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_888449E341B109177__A096433654E63D4AC663A9081B9613D2E637C198.udd" 915
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/6/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_888449E341B10917788A30AA1EF67F9__5C24DD701F17F8DFABEEAAA0DC035A8638048274.udd" 916
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/2/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF53DB35__4604230ADCAE57EC77D802314426939391AA72CD.udd" 917
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/2/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF0DCE0A__C7BCFD8FBA7F920693F0A89AA00C3E28A8A528E9.udd" 918
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/8/STATICMESH_46A8778361B442A9523C54440EA1E9D_8C68575CEF434CA8A9E1DA4AED8A47BB_A5__3556BE2DC43FC42A099BA79FC0785F8289CC2819.udd" 919
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/1/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_2049E43F452D83B1428B21913F10CC7__AA5403D38C77729BBC4BA56CD54F06D47A91A953.udd" 920
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/5/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_2049E43F452D83B14__CDC137665B639B37A5D8E6FB53D74AE63F2E0DE1.udd" 921
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_8C68575CEF434CA8A9E1DA4AED8A47BB_B5__4CA351A67A28719C9672DC877A967A4F063514E8.udd" 922
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/1/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_9A74828C44944C06A64AC49D41B08B6__CB763466DBA88A79DAFB57DC9D2D7D77E4B848E7.udd" 923
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/5/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_9A74828C44944C06A__2DC1419A3A9898D56F841084E3E6DBDCD0AB500B.udd" 924
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/1/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_B90063E74E792987F40ECCBBBDE4714C__1_0_13123_0.udd" 925
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/7/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF309E13__F82EA78649D21D959A01CC65406D420795068F6A.udd" 926
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_DC6CA0684157B2AC72D5288B9F8F__ACD4EA890124F02AAC20FFCE1BB6ADF582871BD1.udd" 927
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_B68ADFF5426D7E79135D678026B5__6FCC9CF305640A6D12ACE4D026EFB89FA2566BB9.udd" 928
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_9367B82F47311959E13882981E3E__FB5CC70580DE7F22D0EFC34EC9785D0679FD9945.udd" 929
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_DC6CA0684157B2AC72D5288B9F8F__A0CEE23A3496D5C45D5C824CC23A923313A57CB9.udd" 930
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_9367B82F47311959E13882981E3E__EE179D01BF3895DD3EC06992D406EFFB4F38D332.udd" 931
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_B68ADFF5426D7E79135D678026B5__22EAB73CB6D5A037B3EB0FB8F48CAD7A78CC3F3C.udd" 932
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_40217F224128928DC002E8B13212__34444EC8C64F4C4012E11A8257971BAC5AF9E81B.udd" 933
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_52D2C31F416C987F4E1B48BD33AB__6EEB969752DB821892E451B26BFA84AAA22AFF21.udd" 934
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_B2261A9940CBC254DF2713AA0464__1C599840B40373C50D5414F07F0511FF45B103AF.udd" 935
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_40217F224128928DC002E8B13212__EA19BF862CD78E9AE72C1C1FEC577212C8E73B71.udd" 936
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_B2261A9940CBC254DF2713AA0464__4F1DDCE6E23498E89E70D9AE30C6B2418449B213.udd" 937
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_52D2C31F416C987F4E1B48BD33AB__E2A8222AD024BCD409A812E33AEB7EA6B7D4F429.udd" 938
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 939
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 940
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 941
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 942
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_2E1EE3B14D43A62B84881B8F5AAD__B01E18D73F532638B50DDEDF827FAA1860282136.udd" 943
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/Pistas/Pista_01_M.uasset" 944
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/5/STATICMESH_46A8778361B442A9523C54440EA1E9D_8C68575CEF434CA8A9E1DA4AED8A47BB_73__A0F2FCCA44824BC06A0C2BAE376EE4F231E03253.udd" 945
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/9/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_D1D8B1E14B8A78CFA__4CB824FE62BFAECBE0A3D8B4452D3715336A77D5.udd" 946
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/3/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_D1D8B1E14B8A78CFA71FDA819198705__944965A1051F511CDD89D52D0C0A65D9BE9F9A05.udd" 947
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_317E91614D862F53A20EA293ED0EA4B__1D021D35F54D2DA98E8E1EFB1FC35308D57E3D14.udd" 948
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_D3521A194784099DF213E48B8CB6__C4F34D374629AD10C6241F2B89EA0CFB3C8C36F4.udd" 949
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_9897B6EC440510270E199EBB9F17__545D56C18D7F4C4F8A4328C9674D7EEF4B73BCE2.udd" 950
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_9897B6EC440510270E199EBB9F17__46576DF8FCC764FF4529BAD6248D921F6E2AF354.udd" 951
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_9897B6EC440510270E199EBB9F17__98FD5711F182CA17089879AD9340EB29EF77B453.udd" 952
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_9897B6EC440510270E199EBB9F17__D6BAD12030A511FF3BAD4F362D37D19CE334A028.udd" 953
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_9897B6EC440510270E199EBB9F17__44EDC7966F35021702E15BEA5BD0B021057287D8.udd" 954
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_9897B6EC440510270E199EBB9F17__C92D87C5A21AA6DB8D362F834216E46B80241AA7.udd" 955
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Blueprints/CarrinhoRolima/Material_Car/6b696b5f_D.uasset" 956
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 957
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 958
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_C9D41DBE4C754F8B430E7DBADCD4__8EF7BCCA2456BC3B35A7DDB3D88C3A39E1692141.udd" 959
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_C9D41DBE4C754F8B430E7DBADCD4__5CA27630B88BE371EC408DC97EAACC5AD150314C.udd" 960
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_C9D41DBE4C754F8B430E7DBADCD4__99CAE6AB8BA893DCA5FF4606B17BBE43051E2E6B.udd" 961
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mapas/mapa_teste_paint.umap" 962
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 963
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 964
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 965
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 966
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 967
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 968
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 969
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 970
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 971
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 972
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/8/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFBA33F6__6A358493714522A83FB74B04BBC0212C71FEE32B.udd" 973
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_5876EDC5446328927A839CB86E25D00__93482BD94595956E4B27A976D29A9C03DF4DD748.udd" 974
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/8/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_5876EDC5446328927A839CB86E25D00__EA100E9A6E50B33B326F6D0A821C59C13D728E0F.udd" 975
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_5876EDC5446328927A839CB86E25D00__63F16197E917C8581E5D6453635F21DEDF31A790.udd" 976
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_CF42979D4C189447D5D739892053__942C7826C74BFBC6900D0E17E344E60952021791.udd" 977
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_95FE44BC4C3AF942427110AA6A3E__433CE6F431F784A18C58B564426EDDBCE46C85F7.udd" 978
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_5876EDC5446328927A839CB86E25D00__F3BAF5D09C26B7E2AA3B739D441B178BBE49FBF4.udd" 979
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/1/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_EB3F6FB9DBE16FE210DAFED645215180.udd" 980
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/3/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_65EDF3204C7C622474CB18925A627462.udd" 981
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/0/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_B1F27995D1B6D2D02897374499C96EDF.udd" 982
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/9/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_647B303A43930DB8984574AA7BA8A329.udd" 983
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/0/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_AAB63918925FA26928DFC5CA9E5BEB56.udd" 984
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/2/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_B13A21784D5A547454AED89A5CC3E526.udd" 985
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/7/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_C9A8ABCE330E2CEAC65D3A55D291E2F1.udd" 986
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/5/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_5D78A2B7409A70D0A429AD8D2EA4B4C0.udd" 987
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/9/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_3B65D2E676F5A55FC353BFA20049C111.udd" 988
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/3/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_D4BCAC1748583CD9F7EA1E948729311D.udd" 989
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/5/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_969176EA3BBC377264B6B9CE0D111460.udd" 990
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/6/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_8071C9734ADA0D6849B75AAF62291983.udd" 991
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/1/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_999C7E2B97612F6B0FCAEECD2635D9D6.udd" 992
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/1/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_214D4A3749B66B0A4BB8BBAAC111D2E3.udd" 993
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/7/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_B6EFD481DB102445F4106CB2F33D8376.udd" 994
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/0/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_0584555F407F0C7A35DD39B421F03CCE.udd" 995
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/6/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_3C95042C306C996262C15829337F7DFD.udd" 996
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/3/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_9EB550CD4619F1881957DAA954267C16.udd" 997
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/2/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_28D33956A5C63D1CCD35D8B4EA6A6CBA.udd" 998
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/7/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_59EB08244F7DFAD1127FE291D3ECF6A0.udd" 999
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/1/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_A2A2B051348744BD196CA797E4B7D274.udd" 1000
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/9/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_D4E695244991F06F8B4632AD78A26CA5.udd" 1001
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/8/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_0BCF53566780745F506B6A43710D5077.udd" 1002
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/2/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_370F79484BB6B5D60EF107B517CE2D9A.udd" 1003
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/7/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_62623D77A8E92D55C739141BA9EE8C3E.udd" 1004
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/7/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_1781E32547E94F0DD6466A85630220F9.udd" 1005
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/9/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_A87017AEBA2731E64BF541DFE2399FAA.udd" 1006
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/7/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_4EF91C9F4ECC68EAC838C4871951BB6D.udd" 1007
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/8/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_30B38259A8594B8134FDCC6439BEFD9B.udd" 1008
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/5/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_73033F954772E82272B99AA0F2466D82.udd" 1009
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/9/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_5D386E555A1DC8FEFC921CE6DA1632B0.udd" 1010
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/3/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_9A1AAEA843CF085779D35FA424367E8B.udd" 1011
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/2/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_0EF521A45F5174F831B0B47CD143260E.udd" 1012
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/3/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_FEC3A79C40A85F2ABA95CDA781ACEB5D.udd" 1013
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/0/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_115192CD0BB872C66A7C5E29220C1479.udd" 1014
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/9/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_89D212DD49F5064BDE619888CC5DB0B5.udd" 1015
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/4/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_41590927FE59433D55942E088B2A3393.udd" 1016
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/0/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_91F3C3C042D9C31E1E016E8BBF5B2B68.udd" 1017
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/7/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_F7E3B42189FA18934EED980C6D3C9643.udd" 1018
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/9/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_8FF97E3748AB7AFF80CFF8BE60DA8FBD.udd" 1019
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/0/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_8A5795706EAB2F9E34D4E0725116389B.udd" 1020
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/2/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_AF0D4FE74D2B44F6F63C9B8A8508684D.udd" 1021
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/4/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_0E11450602466CF47088E0498FAF3F22.udd" 1022
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/8/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_6263103241CA6907AB8A24A6A4F34E00.udd" 1023
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/1/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_C2D93CEF33B88499ACA9578CBF5CBF36.udd" 1024
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/0/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_7714FB1F4758E0512952DB8468437AA9.udd" 1025
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/1/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_077B191FB0F734633068E7340D148307.udd" 1026
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/3/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_5DAD66AC4DD1C8098FACE087922B34E0.udd" 1027
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/4/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_D9480AE0B1799DE85F0B8D9265ED3FEA.udd" 1028
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/2/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_A5961FBF4ADD5EF4F450A48DA6FCDF05.udd" 1029
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/8/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_7C63B2D77EC7DC56486EBA9CD54DD12C.udd" 1030
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/4/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_E8275C694F709A7FD5382588AE16FA34.udd" 1031
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/0/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_E8A49815D0B371D206E4779EC83F0B4D.udd" 1032
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/0/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_10F56B074D4AA5A0A16B0C9B718D8212.udd" 1033
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/4/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_55B2F38D1ED8EFCF4E10C2AA4B21FEB5.udd" 1034
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/7/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_C93CD7D849E0CA869EF73F9622BDE0F3.udd" 1035
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/0/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_610E5D60717A559C4A93BBCF13C5FAB2.udd" 1036
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/1/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_6427F58D48726CE0BCCAF183BDD38495.udd" 1037
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/8/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_F5A2312899389413B804944816336736.udd" 1038
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/8/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_E5D91D7B4132E1D6FA10BDA33C48912D.udd" 1039
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/2/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_352675A9F525341BAFA9B7C4F8430DD1.udd" 1040
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/1/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_23E78C2744C0573DFEA6E2B194AB8316.udd" 1041
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/4/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_28F0E9DDCD7E6091E75A7B834BA11C27.udd" 1042
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/0/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_1EE540E54EF58E7EEE4F2C869F0C15AB.udd" 1043
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/9/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_0ADDF860EF96265EF5B9E075ABBE2907.udd" 1044
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/2/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_8F562B824C09124FA2425C8F44260E86.udd" 1045
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/9/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_20747F7C5F37E6685FEF4C2FDA263E4F.udd" 1046
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/2/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_87536AC241C4C94EA9AB33BBB52A1937.udd" 1047
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/1/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_E689163E7F0BDEF4ACE27EBD95437956.udd" 1048
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/5/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_12A8ADA341FC90526588379BE5ACBA10.udd" 1049
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/2/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_58CBC5260A6F98FF4402CD4869C19E20.udd" 1050
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/3/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_E46276334A476637661C34A06557750D.udd" 1051
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/6/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_FC6DC180B5779FD623A76340266E6195.udd" 1052
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/2/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_19905CF5469B21F3B7ED6B99BB5E51FD.udd" 1053
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/1/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_FD521FFF3D097AC5CBC5529913902528.udd" 1054
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/1/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_10B3F7364ACDC0FB0E88D6907E9FA976.udd" 1055
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/0/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_70FC6448244A5BAFB6B4D11F0E447D86.udd" 1056
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/2/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_9EDB90314574570C9FCF75B210D0FE9C.udd" 1057
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/2/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_83EADC13D639A57D9AC9F5564CA5068A.udd" 1058
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/6/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_BDC7D9C14FDD31F9C4F0FABC393EC64F.udd" 1059
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/4/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_2E97220CCF4F370FC16B3FFFF9CC061C.udd" 1060
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/2/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_F11F76694CB5045A31F098910CA4778F.udd" 1061
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/4/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_9FEDE04C84FEE64490910B964DCDAFE3.udd" 1062
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/3/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_54A5DF394BFEBC6D49E53E818B512EAF.udd" 1063
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/3/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_235F355875E174712F64CA8E0FE636D3.udd" 1064
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/5/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_33FB583A40EBBEFD3A47A3912F7AAC3B.udd" 1065
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/5/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_6D8313976C6AD2490DF1EF1978D508EC.udd" 1066
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/2/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_9082E9D04EB03217AFF44982ECE7C289.udd" 1067
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/8/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_A343D52A79A0F4A8D514C989D2D1BFF9.udd" 1068
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/1/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_106D75BB496FE23566246B9BE6210EEC.udd" 1069
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/0/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_348DD85D7F285B5E93B130616B47EC39.udd" 1070
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/5/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_E49DAD4147CD269C19FCC4A37C8C2172.udd" 1071
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/0/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_8C48FE9DD4143B882F208F0140567924.udd" 1072
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/4/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_68F5EA4F40B6BE405001F1912F5EAC58.udd" 1073
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/0/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_31FC46F85ACB1B875F6B423DB883280C.udd" 1074
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/8/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_63B7B95C408273BC030660AD22D13846.udd" 1075
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/7/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_B1F32EF8D3F5AC4A79738E8C2A7F5715.udd" 1076
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/8/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_81D105D9436E19645E5846897492075F.udd" 1077
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/6/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_4F67053D136C1A1FFBAE06A5CF024A3A.udd" 1078
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/7/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_51306BCA417F8D8B131A84B45515D0CA.udd" 1079
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/8/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_7BBA67E72963DB4F46468020FABFAC21.udd" 1080
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/5/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_906C9B044097FBA55E8DF4B83A83F51C.udd" 1081
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/4/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_2B733D24112DC99F97E7899042E31963.udd" 1082
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/3/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_84E769354CDBC858263F598F5AE35B81.udd" 1083
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/4/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_219C674A117AB75E5AB98ED39D93C909.udd" 1084
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/4/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_C68E7D164E707C633420E1B765546E7A.udd" 1085
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/1/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_604C76C657E3286C0B76924BD5036939.udd" 1086
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/4/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_C9B8EBB04CF41E4E0A0A1AA007E7E986.udd" 1087
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/1/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_857A829836EDD5901BAF1BDF09E0CCA7.udd" 1088
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/0/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_65B964694691E62150996E8929C15BB2.udd" 1089
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/6/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_0831DB6838D4C630E1914CFCF0252274.udd" 1090
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/7/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_4CA327CA490B35D174F807B0DE2A1CEE.udd" 1091
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/9/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_9D938B31030AC19BF86B453159EBF1DE.udd" 1092
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/0/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_E24CC60C431A9ABCD2634C9A1668AD98.udd" 1093
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/8/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_9C3C7C315C9B042EB47FEFFA4B83F17A.udd" 1094
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/1/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_908FF8564A0495C7BE112D8C257E78F9.udd" 1095
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/1/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_7F59D5158CFECA1C181364F4CB394CED.udd" 1096
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/6/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_EFE722984CDCC199223071AB0C9486A6.udd" 1097
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/0/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_6272C232371321B74596AE2D17627D90.udd" 1098
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/2/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_5F748D6C4562AD7821A279BAF29D3EBE.udd" 1099
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/6/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_66AEE398047F196DF49B1830894816DF.udd" 1100
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/9/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_D9EBAAAF448AFA5F729B47A6F85D25EE.udd" 1101
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/4/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_B294BE145AB1242C0C3831F7B66A3EE6.udd" 1102
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/9/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_15BA67B8482D55D69DD3D4B81E7CD66E.udd" 1103
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/3/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_95F1889FCFE217BDD615FFA1B2ED54DA.udd" 1104
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/6/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_E1498CC447E3F474D8EEE5AC553465A5.udd" 1105
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/1/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_43EE6A8EE6DFE95270F7C45D7D738BF4.udd" 1106
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/8/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_79F00CAC4086A72024050E9B57F490FE.udd" 1107
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_448D83D64D92F14E184FE8814236__A1319EB74B7D0DCC0303E19E536D131BD85C8BB6.udd" 1108
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_448D83D64D92F14E184FE8814236__AFB0BB4826F2083FF4D507562195455DEDFCE373.udd" 1109
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_448D83D64D92F14E184FE8814236__C447CEE45E12679D776AD65BADCA8EAB1C1AD9FB.udd" 1110
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_448D83D64D92F14E184FE8814236__9E3288F163DA4C47F0739947487162F78C72C1ED.udd" 1111
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_448D83D64D92F14E184FE8814236__8EB8B20303415C1B65742102EE0D026EC85081B0.udd" 1112
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_448D83D64D92F14E184FE8814236__B871A1118DD12C0E3FD23162DB02B9810B75B363.udd" 1113
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_52640BB9425F976C53CF3FA787E7__6731AD613568C4C3C16AA60A196D978761B42823.udd" 1114
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_52640BB9425F976C53CF3FA787E7__9B0A5091B46417C704ACFC5542FD5E64D781188D.udd" 1115
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_52640BB9425F976C53CF3FA787E7__0DDB4F5B0BB901FF2C8F551ADE807FB0B84FCED8.udd" 1116
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_52640BB9425F976C53CF3FA787E7__704CA6D885E721661C0CD3DA59FCC6A97BEB7BE8.udd" 1117
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mapas/Mapa_teste_game.umap" 1118
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_9FD840154B410F2E30BF52921E91__C9507D1CAC06060694BF4F0104C01AA7A2E571D8.udd" 1119
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_192E824E48C61B69FF29F4AF89FF__3F9C7979B9FCE55A336579D05FC1E2449592A05C.udd" 1120
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_1BB6A86E49FB0B07C6CE859F8654__14D821204FABEFE6C8100D43F6ECBA6F6E7C4FE1.udd" 1121
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_1BB6A86E49FB0B07C6CE859F8654__41ED0866E0BACAE75BC8C466F3EB26CAB69FA30D.udd" 1122
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_9FD840154B410F2E30BF52921E91__B2CB5D29173F69A34F8D73D37E4FC48DDA4B958E.udd" 1123
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_B59BE26F44A31B1737ACD98489EE__957BF252ECEF26EDFD0C8594F9629938D0C36F0A.udd" 1124
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_6E4E8D57494B0B7AE5CDE3842D5B908__2FBEB3AA737A2059B69E9B76338CBC500912EF28.udd" 1125
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_54F5650B478FB94A42EB75A4A10D868__E6D8EF3A29BC8AAE37810CBA1B46938A7FE60532.udd" 1126
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_ABA33BE84C290CCFBEA458BECFC7__78EFF7549F25615EAEF27F2D36D8EE30D3BEB855.udd" 1127
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_AF829A86400A389890E63DAA0A8E__F2655006EDEA510A78A6EB30EAEE76F30F7E981A.udd" 1128
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_6E4E8D57494B0B7AE5CDE3842D5B908__439F0EEA26110AB62B5697E7AF2760931178F1DE.udd" 1129
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_ABA33BE84C290CCFBEA458BECFC7__8AED14C865F89322143B56A6C3F104AEC46F477E.udd" 1130
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 1131
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_D5542AFE4886708885DF42B1BE8F__2F075057FD006E88F1C937FE7B00E62F4B168B04.udd" 1132
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_D5542AFE4886708885DF42B1BE8F__5C4869AC40AB2F84EA55D81F727ED360EC265CFF.udd" 1133
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_B5C1F43646CFF2B769C4F59B2114__51E03ADE5B772896A32051E55B3DC7B4D247504C.udd" 1134
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_B5C1F43646CFF2B769C4F59B2114__B23BB2F8B92785A5A50754E9753BD06B98CABBF2.udd" 1135
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_B5C1F43646CFF2B769C4F59B2114__E3DFD93590B393063DA1FBFB0161812ED1258BDC.udd" 1136
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_B5C1F43646CFF2B769C4F59B2114__67F4086DD9821BADE4E1C7D39BCB0E2BCF82FCA7.udd" 1137
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_B5C1F43646CFF2B769C4F59B2114__A42779CF22D0D0AA2689DBBC83C62E8647BD9F15.udd" 1138
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 1139
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_F562DDF94D8D885AE92078A9DD77__856CB919E98933578DFFEC4CFAB62BB14D81E31A.udd" 1140
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_F562DDF94D8D885AE92078A9DD77__11A02FE239E7A8FCF81B0D5EC9C5F9871569D25D.udd" 1141
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_F562DDF94D8D885AE92078A9DD77__CFB2C4D30B68C76F3A3646C8D1F261C6851E4430.udd" 1142
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 1143
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 1144
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_7BBBF743419EE004ACC16E9959BC__850B8551A27DDAF3FD4308855DAD15A21F3332BA.udd" 1145
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/telha_de_ferro_02_Mat.uasset" 1146
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/7/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF422355__21A02D339C35BD86584A63E439D88CA245A58C26.udd" 1147
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_F6B37E0F49E8EBEE926B2EAA791C__3C555BB6269F0EDD1329C2949585B43A4BBAA4FA.udd" 1148
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_F6B37E0F49E8EBEE926B2EAA791C__1CC5AC14F81D8805ED81D79F050300595690F4A2.udd" 1149
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_F6B37E0F49E8EBEE926B2EAA791C__BDA5087A5E224FB4D698C4B89A74FDA780DE2A2F.udd" 1150
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_F6B37E0F49E8EBEE926B2EAA791C__50503A30444C8A58DDF46FB7D2ED5FC6D13C4255.udd" 1151
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_F6B37E0F49E8EBEE926B2EAA791C__C0EF758AEB84F3826918762C5A0170D1CA3B5B8D.udd" 1152
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_FD5EE66243E01DAF103AD59DFC77__E62834D21FD6A9739407C9190B15CCE55A441F38.udd" 1153
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_D6F7DCDE4B53D0C3427224956562__A026D1DFD8E10294CFEFFD2E7E7195E1A4E72956.udd" 1154
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_D6F7DCDE4B53D0C3427224956562__10C129ECB7160DDE61C18F96BD1189F250F237DD.udd" 1155
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_D6F7DCDE4B53D0C3427224956562__FA4752ACD3AF640E17F96BA3246BB8F0CFEDA368.udd" 1156
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_D6F7DCDE4B53D0C3427224956562__AFD114500D779EC98E90A98800F297060C40A961.udd" 1157
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 1158
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_5FF2868842E6DED8A4C0CB821719__5B6E2AE7BE2273D3DFD996FF168947D01E0954E3.udd" 1159
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/Roof_01_T_Mat.uasset" 1160
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/Roof_01_T.uasset" 1161
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/3/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF65B237__D2F98C46A37F2147948D035B5A5AD60C7D51BFD6.udd" 1162
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_A4CA315141FF13E8C0F91E969A11__D25EF270E7199DE06D3E5DFB4C8C40C5A5BA31BF.udd" 1163
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_A4CA315141FF13E8C0F91E969A11__4268297E236D53FD7828C847BEE743FDB562803E.udd" 1164
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_A4CA315141FF13E8C0F91E969A11__75BA39AEAE8DEEB1CBA50F3ECAC2441919A1DADF.udd" 1165
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_A4CA315141FF13E8C0F91E969A11__6C95E87D702FEFD7D9BBD41F3F1EA0249A199A03.udd" 1166
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_A4CA315141FF13E8C0F91E969A11__917F3CA4FCE9DE1D5EDAF7C5F0AC9AA2F36AB4CE.udd" 1167
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_EADCDCA74DD617AF2583538A93DC__21579160DEDCAFA6A99C0AE0CC30962AE5659B72.udd" 1168
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_EADCDCA74DD617AF2583538A93DC__8FDD372499A885D18E09CEF011BAF3040BE64B8F.udd" 1169
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_EADCDCA74DD617AF2583538A93DC__8E53CF724172069FF6D3A348059288BAB14DDF4F.udd" 1170
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_EADCDCA74DD617AF2583538A93DC__D1734CCEA935F505DF94A49AEDDE721F47173510.udd" 1171
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/Concreto_02.uasset" 1172
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_F196251A4D9CE7BA0BE8F2882BB9__6D55DCB72EA9381446BC788FF0EFF9DEABA5A1FE.udd" 1173
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_F196251A4D9CE7BA0BE8F2882BB9__C5DDAD676AD0E0415AC4A53E70E5B238E1FB5A05.udd" 1174
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_F196251A4D9CE7BA0BE8F2882BB9__9C95957BB0AD1A5324012676C6B5BE118FFA4563.udd" 1175
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_F196251A4D9CE7BA0BE8F2882BB9__530E0A8A909E88819A72E5F7AE0DED6A875E8291.udd" 1176
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_F196251A4D9CE7BA0BE8F2882BB9__2C968A60642DB820A3FD47B8E88CAAF35E21B704.udd" 1177
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_F9217C844741284B05A07B932CB4__755A2DFE785EAD3CC688CEB0612E7F8F437BE8CF.udd" 1178
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/roads_04_Mat.uasset" 1179
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/roads_04_N.uasset" 1180
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/4/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF9A11C1__2C79CE4F464DA5BCCF0B5A323FC8AA462FA19444.udd" 1181
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_5D81EEB0487779D4A8B2BF88969B__939D691A5F1E038E85FD08D7CFCE54D877CE6908.udd" 1182
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_5D81EEB0487779D4A8B2BF88969B__3781927ED96E904679063F4D2C26747D16C0846F.udd" 1183
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_5D81EEB0487779D4A8B2BF88969B__8FC56B1E8124E9B1E32905D80C262FD27E7D775C.udd" 1184
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_5D81EEB0487779D4A8B2BF88969B__FCF9E06DF0CAEC7E03E2429768FD3CEF02170B57.udd" 1185
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/Concreto_02_Mat.uasset" 1186
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/TXT/Concreto_02_N.uasset" 1187
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/4/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFC7ECF5__821867076F9F62B65508448629B0FFEE3C4C3BC8.udd" 1188
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_23869932450A7D83751D069C1FEC__0C66B484AB3ECB56286A31F985C5AC0960C4731F.udd" 1189
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_23869932450A7D83751D069C1FEC__1FC277DE8CD9DF2E04AFC7D84543DB291B54BACD.udd" 1190
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_23869932450A7D83751D069C1FEC__69FF19551DD6A7978782081AF47F3C7539310502.udd" 1191
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_23869932450A7D83751D069C1FEC__070A8E75CB6D7B3B7569376B95CEA3187482E96A.udd" 1192
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_23869932450A7D83751D069C1FEC__683354996626BE0876450810D2E8846CFFC687F1.udd" 1193
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_6E48A1374B68712521F9C9B7391C__33A1DE5F303221A897825BDA7559ABA827036B12.udd" 1194
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_6E48A1374B68712521F9C9B7391C__9F86C661F47051AC68A3ECBD465615E20EF94CB3.udd" 1195
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_6E48A1374B68712521F9C9B7391C__E19C52F3C3E0FFD97112EEAEDCEE0254027E8CF2.udd" 1196
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_6E48A1374B68712521F9C9B7391C__84867E9B8E64AE6F64BDFB56935589E81939F88C.udd" 1197
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_6E48A1374B68712521F9C9B7391C__BC096546077B1CE7754EA8E619D35E2BE28B024D.udd" 1198
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_5BDDC1C54357367B039F40A18C6F__003CCFD40384B8FC7BF6262686E2198C1351A3C4.udd" 1199
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Content/Mesh/Roads/RoadsMesh/Road_01_R.uasset" 1200
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/5/STATICMESH_46A8778361B442A9523C54440EA1E9D_8C68575CEF434CA8A9E1DA4AED8A47BB_EF__395CE404970A781425D9BD60D5B3E20E99A0AE47.udd" 1201
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/8/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_FE13AF6C4FC1745F8__E4ACD929B25365E54A604D83419A5DD5DE5B4766.udd" 1202
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/3/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_FE13AF6C4FC1745F86506A822036861__E273B6708B0765FE522B1A426DF804919B1A2ABD.udd" 1203
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_4BB48ABF4DBE2F2CBFE623AF8AA2__3A39B7B439DA82B6214D0AF9405C68593615B5BB.udd" 1204
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_4BB48ABF4DBE2F2CBFE623AF8AA2__445DB74312C8901536FE815BE936A5C7D52AADC3.udd" 1205
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_4BB48ABF4DBE2F2CBFE623AF8AA2__9E3CB25A398747BAC807320A0794FAE9BA633E07.udd" 1206
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_4BB48ABF4DBE2F2CBFE623AF8AA2__DD6D221D62F6A042C81406193378035BD298A8AB.udd" 1207
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 1208
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_9F8FBEF84A1997E30FD384955E3D__6A408E1CDF5C92BC25E0CF0FB5311C00E0ECAD1E.udd" 1209
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_9F8FBEF84A1997E30FD384955E3D__972FDFAA7168419231780096EBA544B3058A4CE5.udd" 1210
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_9F8FBEF84A1997E30FD384955E3D__7B5BBC5F4C8A2D31195DA1BA1E6ABD488583F44F.udd" 1211
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_9F8FBEF84A1997E30FD384955E3D__660E5ADE3E286524E73EE0B62E47CA618AB37F96.udd" 1212
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_3B16AF894D124C1981C3DA92DA6A__0CD5A5D10F98C3E9C20552C3E2030651EAB02396.udd" 1213
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_3B16AF894D124C1981C3DA92DA6A__C20D5D9FB11739B01C821FB881484E2E0640E904.udd" 1214
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_3B16AF894D124C1981C3DA92DA6A__83F852AF7CECFF2A62D440CA76373F2CA7BE9E60.udd" 1215
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_3B16AF894D124C1981C3DA92DA6A__48D726FFB735A663558688F139CFE8AA6149B485.udd" 1216
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_3B16AF894D124C1981C3DA92DA6A__8B7DD0247F1415D83D5FA587347BC2523FBEA8D4.udd" 1217
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 1218
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_119D9D384F916FB5612DEB85B012__F70CE0BF99C3875DF12576A76693DBE123267F4F.udd" 1219
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_119D9D384F916FB5612DEB85B012__E41DCDAC7622973FEEBF50035A2C3C0FDF03B18C.udd" 1220
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_119D9D384F916FB5612DEB85B012__95D25CF6FD26984769B743186AB1479ECBEA4B78.udd" 1221
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_119D9D384F916FB5612DEB85B012__51E9A59B699BD636C2EF33F09BEBF1D2EAEFB259.udd" 1222
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_15950BFE498D5F7638646FBFAD3E__CCE91737A0B1ACFB5B01AB183CAAD02B1F915620.udd" 1223
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_15950BFE498D5F7638646FBFAD3E__C3F89FB4B088EBDB63C0789817DA03DB5C72352D.udd" 1224
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_15950BFE498D5F7638646FBFAD3E__BB28D31554AA06AFEA4D32D16D02005D24DA1D35.udd" 1225
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_15950BFE498D5F7638646FBFAD3E__5E100060E22E58981C9AB12376A501EBAC0D8A3B.udd" 1226
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_15950BFE498D5F7638646FBFAD3E__B2FD1682BCE2F469355650DF43C4A85A11A23DDD.udd" 1227
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 1228
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_C200B7694C3FE53EBCE97592F5F4__C8B33D317BFF80C323CD4B45D509D86A55719B3F.udd" 1229
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 1230
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_80A9E59646847B4846ED6DAF42DF__0C4971E08097B9D18830DF91D757278FB50B2381.udd" 1231
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_80A9E59646847B4846ED6DAF42DF__A10033056B082BE1C9D7944F9EF35C3D7F782692.udd" 1232
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 1233
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_3F3B1DD44FE006226A690596DBDD__66F5AE46C8F2E764F5080AFDBC85172E38F50134.udd" 1234
+"C:/Users/sabot/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTOETC1_3F3B1DD44FE006226A690596DBDD__22B532777E5D02E8EED5226F60AAE28B8C4FCD52.udd" 1235
+"../../../../../../Users/sabot/Documents/Unreal Projects/RolimaRace/Saved/Stats/2015.09.05-14.37.53Stats.csv" 1236
+"..\..\..\Engine\Content\Internationalization\icudt53l\windowsZones.res" 1237
+"..\..\..\Engine\Content\Internationalization\icudt53l\zoneinfo64.res" 1238
+"..\..\..\Engine\Content\Internationalization\icudt53l\keyTypeData.res" 1239
+"..\..\..\Engine\Content\Internationalization\icudt53l\timezoneTypes.res" 1240
+"..\..\..\Engine\Content\Internationalization\icudt53l\likelySubtags.res" 1241
+"..\..\..\Engine\Content\Internationalization\icudt53l\supplementalData.res" 1242
